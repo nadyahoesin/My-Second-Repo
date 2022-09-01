@@ -1,1 +1,1 @@
-web: gunicorn proyeknadya.wsgi --log-file -
+web: gunicorn proyekku.wsgi --log-file -
